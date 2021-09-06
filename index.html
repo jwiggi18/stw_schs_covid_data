@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="schools.css">
 
   <style>
     body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
@@ -40,16 +41,13 @@
 
     </div>
   </div>
-</div>
+
 <hr>
 <hr>
-
-
-
 
 
 <!-- Page Content -->
-<div  style="margin-left:0%">
+
 
 <!-- Header -->
   <header class="w3-container w3-center" style="padding:16px 16px" align = "center" id="home">
@@ -57,7 +55,7 @@
   </header>
 
 
-<div class="w3-container w3-center" style="padding:16px 16px" align = "left" id="home">
+<div class="w3-container w3-center">
 <p style="display:block;width:100%;margin:auto;font-size:large">
   Visualizations of Stillwater Oklahoma Public School Districts public COVID data. 
 </p>
@@ -71,14 +69,66 @@
 <img src="img/students_in_isolation" style="width:100%">
 </div>
 -->
-<div class="w3-container" style="padding:8px 8px">
-  <h1>Students in Isolation plots divided by school</h1>
-  <img src="img/students_in_isolation_subs.png" style="width:100%">
+<!-- Students Row -->
+
+<div class="w3-row-padding w3-center w3-margin-top">
+  <h1>Students</h1>
+<hr>
+<p>*Note different y-axis for different schools*</p>
+<p>Scroll down on plots for individual schools</p>
+<!-- Isolation plot -->
+<div class="w3-third">
+  <div class="card container">
+
+  <h4>In Isolation</h4>
+
+    <p>Zoom in</p>
+  <img src="img/all_schools_isolation.png" style="width:100%">
+    <hr>
+    <p>divided by school</p>
+    <img src="img/students_in_isolation_subs.png" style="width:100%">
+  </div>
 </div>
 
-<div class="w3-container" style="padding:8px 8px">
+<!-- Cases to Date plot -->
+<div class="w3-third">
+<div class="card container">
+  <h4>Cases to Date</h4>
+
+  <p>Zoom in</p>
+  <img src="img/all_schools_cases.png" style="width:100%">
+  <hr>
+  <p>divided by school</p>
+  <img src="img/cases_to_date_subs.png" style="width:100%">
+</div>
+</div>
+
+<!-- Notifications plot -->
+<div class="w3-third">
+<div class="card container">
+
+  <h4>Close Contact Notifications</h4>
+
+  <p>Zoom in</p>
+  <img src="img/all_schools_notifications.png" style="width:100%">
+  <hr>
+  <p>divided by school</p>
+  <img src="img/close_contact_notifications.png" style="width:100%">
+  <hr>
+</div>
+</div>
+
+</div>
+
+
+
+
+<div class="w3-row-padding w3-center w3-margin-top">
 <h1>Staff</h1>
+<hr>
+  <div class="card container">
   <img src="img/staff_plot.png" style="width:100%">
+  </div>
 </div>
 
 <!-- About -->
