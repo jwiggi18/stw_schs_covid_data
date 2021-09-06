@@ -1,0 +1,37 @@
+"","2021-2022 COVID-19 DASHBOARD","...2","...3","...4","...5","...6","...7","...8","...9"
+"1",NA,"NA","STAFF updated 9/5/21","NULL","NULL","NA","STUDENTS updated 9/4/21","NULL","NULL"
+"2",NA,"NA","Current Cases in Isolation","21-'22
+Cases To Date","Notifications of Close Contact Issued
+To Date","NA","Current Cases in Isolation","21-'22
+Cases To Date","Notifications of Close Contact Issued
+To Date"
+"3","Highland Park","NA","4","8","9","NA","6","18","122"
+"4","Richmond","NA","1","1","1","NA","2","13","105"
+"5","Sangre Ridge","NA","3","4","5","NA","3","10","164"
+"6","Skyline","NA","1","4","18","NA","15","21","273"
+"7","Westwood","NA","NULL","NULL","10","NA","5","9","116"
+"8","Will Rogers","NA","1","3","23","NA","6","17","229"
+"9","SMS","NA","NULL","3","8","NA","7","25","263"
+"10","SJHS","NA","NULL","2","7","NA","11","20","559"
+"11","SHS","NA","1","4","20","NA","24","61","694"
+"12","Lincoln Academy","NA","NULL","NULL","NULL","NA","2","4","11"
+"13","Virtual Academy","NA","NULL","NULL","NULL","NA","NULL","1","NULL"
+"14","Facilities","NA","NULL","NULL","1","NA","NULL","NULL","NULL"
+"15","Child Nutrition***","NA","NULL","NULL","1","NA","NULL","NULL","NULL"
+"16","Transportation","NA","1","3","2","NA","NULL","NULL","NULL"
+"17","Technology","NA","NULL","2","3","NA","NULL","NULL","NULL"
+"18","Central Office","NA","NULL","NULL","3","NA","NULL","NULL","NULL"
+"19","Other (Multiple sites)","NA","1","2","4","NA","NULL","NULL","NULL"
+"20","Total","NA","13","36","115","NA","81","199","2536"
+"21",NA,"NA","Current Cases in Isolation","21-'22
+Cases To Date","Notifications of Close Contact Issued
+To Date","NA","Current Cases in Isolation","21-'22
+Cases To Date","Notifications of Close Contact Issued
+To Date"
+"22",NA,"NA","NULL","NULL","NULL","NA","NULL","NULL","NULL"
+"23","The dashboard format was changed on 8/20/21 with the <U+201C>Cumulative Contacts<U+201D> field renamed to <U+201C>Notifications of Close Contact Issued To Date<U+201D> the data being reported in this column has not changed. ""Current Contacts"" was removed as that number represented the number of notices sent within the last 14 days, not the number of students that had received those notices,","NA","NULL","NULL","NULL","NA","NULL","NULL","NULL"
+"24","* ""Cases"" indicates individuals testing postive for COVID-19. It does not include any ""assumed positives.""","NA","NULL","NULL","NULL","NA","NULL","NULL","NULL"
+"25","** ""Notifications of Close Contact Issued"" indicates messages sent to individuals that have had close contact with identified cases. It does not necessarily indicate the number of individuals receiving those messages, or indicate that they are vaccinated, unvaccinated, recommended to quarantine, choosing to quarantine, or any other status.","NA","NULL","NULL","NULL","NA","NULL","NULL","NULL"
+"26","***Any Child Nutrition cases are reported at their primary worksite.","NA","NULL","NULL","NULL","NA","NULL","NULL","NULL"
+"27","This list includes self-quarantines that are reported to us as a result of contact outside of quarantines, for instance if a parent tests positive and their child quarantines.","NA","NULL","NULL","NULL","NA","NULL","NULL","NULL"
+"28","Tracking resumed on 7/26/21","NA","NULL","NULL","NULL","NA","NULL","NULL","NULL"
